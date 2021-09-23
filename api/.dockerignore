@@ -1,0 +1,16 @@
+logs/
+*.pyc
+*.log
+*.db
+*.sqlite
+*.pid
+
+.*
+!.coveragerc
+!.env
+!.pylintrc
+
+.git
+htmlcov/
+doc/
+src/media/

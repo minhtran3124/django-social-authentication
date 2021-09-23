@@ -1,0 +1,167 @@
+# Core API helpers for Django and Django Rest Framework
+# https://pypi.org/project/django-coreapi/
+coreapi==2.3.3
+
+# https://pypi.org/project/coreschema/
+coreschema==0.0.4
+
+# Django is a high-level Python Web framework that encourages rapid
+# development and clean, pragmatic design.
+# https://pypi.org/project/Django/
+Django==3.0.4
+
+# Collection of admin fields, decorators and mixin to help to create computed or custom fields more friendly and easy way
+# https://pypi.org/project/django-admin-easy/
+django-admin-easy==0.5.1
+
+# Django Extensions is a collection of custom extensions for the Django Framework.
+# https://pypi.org/project/django-extensions/
+django-extensions==2.2.5
+
+# Django-filter is a reusable Django application allowing users to declaratively add dynamic QuerySet filtering from URL parameters.
+# https://pypi.org/project/django-filter/
+django-filter==2.2.0
+
+# https://pypi.org/project/django-rest-auth/
+django-rest-auth==0.9.5
+
+# Awesome web-browsable Web APIs.
+# https://pypi.org/project/djangorestframework/
+djangorestframework==3.11.0
+
+# django-rest-framework-filters is an extension to Django REST framework and Django filter that makes it easy to filter across relationships.
+# https://pypi.org/project/djangorestframework-filters/
+djangorestframework-filters==1.0.0.dev0
+
+# A minimal JSON Web Token authentication plugin for Django REST Framework
+# https://pypi.org/project/djangorestframework-simplejwt/
+djangorestframework-simplejwt==4.7.1
+
+# factory_boy is a fixtures replacement based on thoughtbot’s factory_bot.
+# https://pypi.org/project/factory-boy/
+factory-boy==2.12.0
+
+# Faker is a Python package that generates fake data for you.
+# https://pypi.org/project/Faker/
+Faker==4.0.1
+
+# Jinja is a fast, expressive, extensible templating engine.
+# https://pypi.org/project/Jinja2/
+Jinja2==2.10.3
+
+# The dateutil module provides powerful extensions to the standard datetime module, available in Python.
+# https://pypi.org/project/python-dateutil/
+python-dateutil==2.8.1
+
+# Requests is an elegant and simple HTTP library for Python, built with ♥.
+# https://pypi.org/project/requests/
+requests==2.22.0
+
+# https://pypi.org/project/setuptools/
+setuptools==42.0.2
+
+# https://pypi.org/project/six/
+six==1.16.0
+
+# sqlparse is a non-validating SQL parser module. It provides support for parsing, splitting and formatting SQL statements.
+# https://pypi.org/project/sqlparse/
+sqlparse==0.3.0
+
+# Psycopg is the most popular PostgreSQL database adapter for the Python programming language.
+# https://pypi.org/project/psycopg2/
+psycopg2-binary==2.8.6
+
+# Organize Django settings into multiple files and directories.
+# https://pypi.org/project/split-settings/
+django-split-settings==1.0.0
+
+# https://pypi.org/project/drf-nested-routers/
+drf-nested-routers==0.11.1
+
+# Django Redis
+# https://pypi.org/project/django-redis/
+django-redis==4.12.1
+
+# Django DotEnv
+# https://pypi.org/project/django-dotenv/
+django-dotenv==1.4.2
+
+
+# https://pypi.org/project/django-environ/
+# Django-environ allows you to utilize 12factor inspired environment variables to configure your Django application.
+django-environ==0.4.5
+
+# Django-CSP
+# https://pypi.org/project/django-csp/
+django-csp==3.6
+
+# Django Admin Honeypot
+# https://pypi.org/project/django-admin-honeypot/
+django-admin-honeypot==1.1.0
+
+# https://pypi.org/project/boto3/
+# The AWS SDK for Python
+boto3==1.5.2
+
+# https://pypi.org/project/django-health-check/
+# Run checks on services like databases, queue servers, celery processes, etc.
+django-health-check==3.12.1
+
+# A Django App that adds Cross-Origin Resource Sharing (CORS) headers to responses.
+# This allows in-browser requests to your Django application from other origins.
+# https://pypi.org/project/django-cors-headers/
+django-cors-headers==3.4.0
+
+# Support for many storage backends in Django
+# https://pypi.org/project/django-storages/
+django-storages==1.9.1
+
+# Celery
+# https://pypi.org/project/celery/
+celery==4.4.2
+
+# Django Celery Results
+# https://pypi.org/project/django-celery-results/
+django-celery-results==1.2.1
+
+# https://pypi.org/project/django-celery-beat/
+# Database-backed Periodic Tasks.
+django-celery-beat==2.0.0
+
+# https://pypi.org/project/django-jet-reboot/\
+# Modern template for Django admin interface with improved functionality
+django-jet-reboot==1.1.1
+
+# https://pypi.org/project/uuid/
+# UUID object and generation functions (Python 2.3 or higher)
+uuid==1.30
+
+# https://pypi.org/project/google/
+# Python bindings to the Google search engine
+google==3.0.0
+
+# https://pypi.org/project/google-api-python-client/
+# Google API Client Library for Python
+google-api-python-client==2.12.0
+
+# https://pypi.org/project/google-auth-oauthlib/
+# Google Authentication Library
+google-auth-oauthlib==0.4.4
+
+# https://pypi.org/project/drf-yasg/
+drf-yasg==1.17.0
+
+# Django REST framework core
+# https://pypi.org/project/drf-core/
+drf-core==0.0.3
+
+# Django REST framework generator
+# https://pypi.org/project/drf-app-generators/
+drf-app-generators==0.1.5
+
+# Flake8: Your Tool For Style Guide Enforcement
+# https://flake8.pycqa.org/en/latest/
+flake8==3.7.9
+
+# https://pypi.org/project/pylint/
+pylint==2.5.2
