@@ -61,4 +61,4 @@ api-start --api-build
 
 Go to [http://localhost:8000/api/v1/](http://localhost:8000/api/v1/) to view all APIs.
 
-Login with dummy user: admin@domain.com/agilityio2021
+Login with dummy user: admin@domain.com/abcd1234

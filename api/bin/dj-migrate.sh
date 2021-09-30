@@ -2,7 +2,7 @@
 
 if [ -z "$DEFAULT_EMAIL" ]; then
     DEFAULT_EMAIL="admin@gmail.com"
-    DEFAULT_PASS="agilityio2021"
+    DEFAULT_PASS="abcd1234"
 fi
 
 bin/dj.sh migrate
